@@ -1,0 +1,65 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBuffer/>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="ble_app_interactive_s132_pca10040"/>
+  <ProjectSessionItem path="ble_app_interactive_s132_pca10040;ble_app_interactive_s132_pca10040"/>
+  <ProjectSessionItem path="ble_app_interactive_s132_pca10040;ble_app_interactive_s132_pca10040;Application"/>
+  <ProjectSessionItem path="ble_app_interactive_s132_pca10040;ble_app_interactive_s132_pca10040;System Files"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="43" y="191" useTextEdit="1" path="../../../main.c" left="0" top="191" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="47" useTextEdit="1" path="../../../../../../../components/libraries/crypto/nrf_crypto_aead_backend.h" left="0" top="22" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="75" useTextEdit="1" path="../../../../../../../external/segger_rtt/SEGGER_RTT_Syscalls_SES.c" left="0" top="50" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="46" y="45" useTextEdit="1" path="flash_placement.xml" left="0" top="13" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="29" y="690" useTextEdit="1" path="../../../ble_m.c" left="0" top="546" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="77" y="1867" useTextEdit="1" path="../../../cli_m.c" left="0" selected="1" top="1844" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="385" useTextEdit="1" path="../config/sdk_config.h" left="0" top="379" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="51" y="126" useTextEdit="1" path="../../../pm_m.c" left="0" top="94" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="34" y="365" useTextEdit="1" path="../../../nfc_pair_lib_m.c" left="0" top="350" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../nfc_central_m.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="70" y="32" useTextEdit="1" path="../../../../../../../external/segger_rtt/SEGGER_RTT.c" left="0" top="18" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../nfc_m.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="54" y="9" useTextEdit="1" path="../../../../../../../components/boards/boards.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="70" y="11" useTextEdit="1" path="../../../../../../../components/libraries/bsp/bsp.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../../../../../components/libraries/bsp/bsp_btn_ble.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../../../../../components/libraries/bsp/bsp_nfc.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="79" y="14" useTextEdit="1" path="../../../../../../../components/ble/peer_manager/auth_status_tracker.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../../../../../components/ble/common/ble_advdata.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../../../../../components/ble/common/ble_conn_state.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="70" y="11" useTextEdit="1" path="../../../../../../../components/ble/common/ble_conn_params.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="29" y="466" useTextEdit="1" path="../../../../../../../components/ble/peer_manager/peer_manager.c" left="0" top="451" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../../../../../components/ble/peer_manager/peer_manager_handler.c" left="0" top="129" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="10" y="765" useTextEdit="1" path="../../../../../../../components/ble/peer_manager/security_manager.c" left="0" top="739" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="ble_app_interactive_s132_pca10040" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
