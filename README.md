@@ -8,24 +8,24 @@ Testing the example application requires other BLE devices such as a second nRF5
 The application BLE commands are organized in a tree structure.
 
   Root Commands
-advertise           - Turn advertising on or off.
-bonded_devices      - List bonded_devices.
-connect             - <address/peer_id> Establish a connection with a device.
-connected_devices   - Display connected devices and security information on each connection.
-device_name         - <name> Set device name.
-devices             - List available (advertising) devices.
-disconnect          - <address> Disconnect from a device.
-gatt                - GATT Client procedures.
-key_reply           - <key> Enter passkey displayed by another device (for pairing mode: "Passkey Entry").
-nfc_read            - <subcmd> Turn on NFC reader (requires additional hardware) <on/off>.
-numeric             - Confirm or reject a numerical value (for pairing mode: "Numerical Comparison").
-pair                - <subcmd> <address> <option> Initiate pairing with a connected device.
-parameters          - <subcmd> Change or request new Link Layer or GATT parameters.
-privacy             - Set privacy settings.
-remove_bond         - <subcmd> Remove a bonded device.
-scan                - Turn scanning on or off.
-secu                - <LESC/Legacy> choose the security pairing mode
-capability          - <I/O capability> choose the I/O capability to use
+- advertise           - Turn advertising on or off.
+- bonded_devices      - List bonded_devices.
+- connect             - <address/peer_id> Establish a connection with a device.
+- connected_devices   - Display connected devices and security information on each connection.
+- device_name         - <name> Set device name.
+- devices             - List available (advertising) devices.
+- disconnect          - <address> Disconnect from a device.
+- gatt                - GATT Client procedures.
+- key_reply           - <key> Enter passkey displayed by another device (for pairing mode: "Passkey Entry").
+- nfc_read            - <subcmd> Turn on NFC reader (requires additional hardware) <on/off>.
+- numeric             - Confirm or reject a numerical value (for pairing mode: "Numerical Comparison").
+- pair                - <subcmd> <address> <option> Initiate pairing with a connected device.
+- parameters          - <subcmd> Change or request new Link Layer or GATT parameters.
+- privacy             - Set privacy settings.
+- remove_bond         - <subcmd> Remove a bonded device.
+- scan                - Turn scanning on or off.
+- secu                - <LESC/Legacy> choose the security pairing mode
+- capability          - <I/O capability> choose the I/O capability to use
   
 # 
 this app is based on BLE Interactive Command Line Interface Example of Nordic Semiconductor, please refer to the doc for more information about how to use this app with an nrf52 dev kit 
